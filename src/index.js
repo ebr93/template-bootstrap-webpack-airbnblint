@@ -11,6 +11,6 @@ function component() {
   return element;
 }
 
-document.body.appendChild(component());
+//document.body.appendChild(component());
 
 console.log('1 2 3');
